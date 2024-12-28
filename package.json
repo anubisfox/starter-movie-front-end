@@ -2,6 +2,7 @@
   "name": "starter-movie-front-end",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://we-love-movies-o2jh.onrender.com/",
   "dependencies": {
     "postcss-safe-parser": "5.0.0",
     "postcss": "8.0.0",
